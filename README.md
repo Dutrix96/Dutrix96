@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Dutrix96
+# 👋 Hi there! I'm Jose Enrique Aguila
 
 🎓 **Web Application Development Student (DAW)** from Spain, passionate about creating clean, efficient, and user-focused software.  
 💻 I love exploring new technologies, building projects from scratch, and continuously improving my code.
